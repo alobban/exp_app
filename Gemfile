@@ -24,6 +24,7 @@ group :production do
   gem 'rails_12factor', '0.0.2'
 end
 
+#random add
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
